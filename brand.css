@@ -14,16 +14,12 @@ p  {
   font-size: %;
 }
 h2 {
-  color: MediumSeaGreen;
+  color: Maroon;
   font-family: verdana;
   font-size: ;
 }
-<ol>
-        <li>
-          is thier shoes most definitely the white lows
-        </li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-      </ol>
+ol{color: MediumSeaGreen;
+  font-family: verdana;
+  font-size: ;
+}
+    
