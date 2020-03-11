@@ -4,7 +4,17 @@ h1 {
   font-size: 300%;
 }
 h5 {
-  color: ;
+  color: gray;
   font-family: verdana;
   font-size: 75%;
+}
+p  {
+  color: MediumSeaGreen;
+  font-family: verdana;
+  font-size: %;
+}
+h2 {
+  color: black;
+  font-family: verdana;
+  font-size: ;
 }
